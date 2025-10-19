@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoussefAbbas2002
-- 👀 I’m interested in computer science 
-- 🌱 I’m currently learning data science 
+- 👀 I’m interested in cyber security 
+- 🌱 I’m currently learning penetration testing 
 
 
 <!---
